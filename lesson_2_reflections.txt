@@ -1,4 +1,4 @@
-What happens when you initialize a repository? Why do you need to do it?
+﻿What happens when you initialize a repository? Why do you need to do it?
 	
 	It adds a .git directory inside your current directory so that it can have a place to store the metadata about the history of the respository.
 
@@ -20,3 +20,4 @@ the diagram the way we do?
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
+ 
